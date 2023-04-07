@@ -1,0 +1,13 @@
+{
+    "disableAutoUpdate": false,
+    "name": "mchm-debuff-guide",
+    "author": "Tally",
+    "options": {
+        "niceName": "mchm",
+		"guiName": "<font color='#D80C10'>MCHM Debuff Guide</font>",
+		"reloadable": true,
+        "settingsFile": "config.json"
+    },
+	"description": "Alerts you on the next debuff you need to take in mchm",
+    "servers": [""]
+}
